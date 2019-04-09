@@ -1,4 +1,4 @@
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 
 贝叶斯定理要解决的其实是一个求逆向概率的问题。在现实生活中，我们
